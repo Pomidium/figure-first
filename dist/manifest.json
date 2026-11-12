@@ -1,0 +1,10 @@
+{
+	"apiVersion": 1,
+	"id": "figure-first",
+	"name": "Figure first",
+	"version": "0.1.0",
+	"minAppVersion": "0.6.0",
+	"description": "Tells the teacher not to open a question in the same reply that dispatches a figure, so the figure appears when it is made instead of after the learner answers.",
+	"author": "Pomidium",
+	"backend": "backend.cjs"
+}
